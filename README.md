@@ -73,4 +73,4 @@ Final Score = Event Magnitude × Context Score × Player Importance × Commentar
 This Case study demonstrates how multimodal data and intelligent analysis can be used to generate high-quality cricket highlights automatically, improving efficiency and viewer experience.
 
 ## 🔗 GitHub Repository
-(Add your GitHub link here)
+https://github.com/Anuprabha0203/cricket-highlights
